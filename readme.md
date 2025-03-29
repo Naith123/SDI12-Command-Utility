@@ -72,6 +72,6 @@ Each session creates a new log file in the script's directory (`log_YYYYMMDD_HHM
 This project is licensed under the **MIT License**.
 
 ## Author
-[Nathan Raj]  
-[https://github.com/Naith123/]
+Nathan Raj
+https://github.com/Naith123/
 
